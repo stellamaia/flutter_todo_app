@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       //retorna uma materialApp que define as propriedades
       //gerais do app, como titulo, tema, etc.
 
